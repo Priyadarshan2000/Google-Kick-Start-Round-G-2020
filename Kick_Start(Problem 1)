@@ -38,5 +38,5 @@ Case #1: 3
 Case #2: 0
 Case #3: 5
 
- 
+   
 There are three lucky fragments in the first test case, namely, KICKSTARTPROBLEMNAMEDKICKSTART and two occurrences of KICKSTART. The text in the second test case has no lucky fragments at all.
